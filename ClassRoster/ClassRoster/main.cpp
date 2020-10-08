@@ -20,7 +20,7 @@ int main() {
 	"AS,Steven,Barton,sbart48@wgu.edu,36,13,34,28,SOFTWARE" };
 
 	// Printing the assignment header with student info:
-	cout << "Scripting and Programming - Applications - C867, C++, Student ID #000938442, Steven J. Barton" << endl << endl;
+	cout << "Scripting and Programming - Applications - C867, C++, Student ID #XXXXXXXXXXX, Steven J. Barton" << endl << endl;
 
 	// Creating the base roster instance:
 	roster classRoster;
