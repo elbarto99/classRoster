@@ -4,6 +4,11 @@
 using namespace std;
 
 /**
+* Roster class used as the base object and data structure for the student roster for the assignment.
+* @author Steven Barton
+**/
+
+/**
 * Default constructor for the roster object.  Initiates to the initial size with student IDs for empty indices set as -1. 
 **/
 roster::roster() {
