@@ -2,6 +2,11 @@
 #include <vector>
 #include "student.h"
 
+/**
+* Roster class which contains student objects as a class roster.
+* @author Steven Barton
+**/
+
 // Initial size for the array when the roster instance is created.
 const int STARTSIZE = 10;
 
