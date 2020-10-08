@@ -1,6 +1,11 @@
 #pragma once
 #include <string>
 
+/**
+* DegreeProgram class is mandated by the class headers in the assignment including the use of enum.
+* @author Steven Barton
+**/
+
 // Enum defined with the available degrees as values.
 enum degree { SECURITY, NETWORK, SOFTWARE };
 
