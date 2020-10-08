@@ -6,6 +6,11 @@
 using namespace std;
 
 /**
+* Student object which builds each student in the roster.
+* @author Steven Barton
+**/
+
+/**
 * Loaded constructor to create a student object
 **/
 student::student(string ID, string first, string last, string email, int age, int days1, int days2, int days3, DegreeProgram program) {
