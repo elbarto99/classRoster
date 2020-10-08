@@ -1,0 +1,6 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\Stevb\source\repos\ClassRoster\ClassRoster\roster.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+  student.cpp
+  Generating Code...
+  ClassRoster.vcxproj -> C:\Users\Stevb\source\repos\ClassRoster\Debug\ClassRoster.exe
